@@ -1,7 +1,15 @@
 #  The contact options.
 
-- type: github
-  icon: "fab fa-github"
+# - type: github
+#   icon: "fab fa-github"
+
+# - type: MainPage
+#   icon: "fas fa-house"
+#   url: "https://hellinus.com/"
+
+- type: itch-io
+  icon: "fab fa-itch-io"
+  url: "https://hellinus.itch.io/"
 
 - type: twitter
   icon: "fa-brands fa-x-twitter"
@@ -10,9 +18,10 @@
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
+# - type: rss
+#   icon: "fas fa-rss"
+#   noblank: true
+
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
@@ -26,15 +35,3 @@
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage
-#
-# - type: bluesky
-#   icon: 'fa-brands fa-bluesky'
-#   url: ''                   # Fill with your Bluesky profile link
-#
-# - type: reddit
-#   icon: 'fa-brands fa-reddit'
-#   url: ''                   # Fill with your Reddit profile link
-#
-# - type: threads
-#   icon: 'fa-brands fa-threads'
-#   url: ''                   # Fill with your Threads profile link
