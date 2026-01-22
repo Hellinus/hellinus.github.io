@@ -34,4 +34,4 @@ Other games will also be referenced as supporting examples, such as [Cyberpunk 2
 2. **Scale, Density, and Traversal:** How city scale and density are adjusted to balance realism with traversal speed, traversal mechanics, and moment-to-moment engagement.
 3. **Exploration Flow & Player Guidance:** How level designers guide player movement and exploration in dense urban environments through landmark placement, sightlines, road hierarchy, vertical traversal routes, and environmental cues, while maintaining a sense of player freedom.
 
-![Research Map](/assets/img/Notes/Open_World/Week_1/ResearchMap.png.png)
+![Research Map](/assets/img/Notes/Open_World/Week_1/ResearchMap.png)
