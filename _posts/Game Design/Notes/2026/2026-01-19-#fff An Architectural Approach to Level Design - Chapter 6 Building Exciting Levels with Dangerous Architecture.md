@@ -57,6 +57,7 @@ The ability to evaluate threats is important when discussing prospect and refuge
 - Secondary refuges: refuges in the distance.
 
 Placing refuges along the path can impact pacing.
+
 Example: cover to cover in fps, hiding spot to another in stealth game.
 
 ### Prospects and Refuges in Architecture
@@ -84,16 +85,52 @@ Le Corbusier’s architecture: largely prospect dominant
 
 Frank Lloyd Wright’s architecture: largely refuge-based
 > low, broad ceilings, natural materials, expansive views of the outside consistent with the Prairie School style of architecture.
+> 
 > surrounding by trees as a tendency toward concealment 
 
 ### Prospects and Refuges in Video Games
+In stealth subgenre, enemies could become important architectural elements and the level itself a spatial puzzle.
 
+Le Corbusier’s Villa Savoye shows how wide spaces, **views from above**, and **open planning** can create a prospect-oriented space. These types of spaces are common in the multiplayer maps of firstperson shooters.
 
+Refuges, on the other hand, factor greatly into games where the player must search for hidden passages and secrets
 
+Prospects and refuges within level design can be utilized to create vastly different gameplay experiences within one set of gameplay mechanics.
+> 2D platformer adventure game: normal exploration space and vast empty boss rooms.
+
+> A unique prospect–refuge experience used in HalfLife 2: the prospect space itself is actually dangerous to the player avatar.
+> 
+> *Hot Lava:* players must cross a beach under which dangerous alien insects live without touching the sand.
+> 
+> The beach is the prospect space and the rocks are the refuges. Unlike the typical employment of prospect and refuge, everything is open.
 
 ## SHADE, SHADOW, AND AMBIGUITY
 
+The lighting conditions of these spaces are not so clearly defined.
+
+> *Hildebrand* suggests **refuges'** low lighting conditions offer concealment from exterior dangers located in the brightly lit prospect.
+> 
+> But transitions from light to dark are “not so pleasant.”
+> 
+> Architect Christopher Alexander advocates for lighting conditions as a device for pulling occupants through space.
+
+> For complexity:
+> 
+> Venturi praises **formal and functional ambiguity**, where one architectural element or space can serve multiple functions under different conditions.
+> 
+> In game design, one finds this type of ambiguity in level mechanisms that have multiple uses, especially if those uses contradict one another: dangerous in one version and useful in another.
+> 
+> Lighting has a similarly ambiguous meaning.
+
+> Lighting is also an important element of emphasizing points along a path.
+
+How the contradictory elements of light and dark create dramatic gameplay experiences?
+
 ### Shade
+
+
+
+
 
 ### Shadow
 
