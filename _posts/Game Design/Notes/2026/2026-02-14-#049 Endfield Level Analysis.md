@@ -116,7 +116,7 @@ tags: [Level Design]
 再向前，可以看到区域二和爆炸桶。
 ![爆炸桶解密](/assets/img/Notes/Endfield/MiddleArea/爆炸桶解密.png)
 先前伸出的铁板指引玩家站在这里用爆炸桶解密，同时这里作为俯视点也可以让玩家更清楚下面的路线。可爆破物被炸开后，露出可拾取奖励，原本吸引程度较低的地区也有了目标。
-![中间地区突起.png](/assets/img/Notes/Endfield/MiddleArea/中间地区突起.png.png)
+![中间地区突起.png](/assets/img/Notes/Endfield/MiddleArea/中间地区突起.png)
 中间地区有一处突起，在空地中造出了环形的流线，同时自身也有宝箱奖励作为吸引，通过白色箱子提示玩家此处的路线。
 ![登顶](/assets/img/Notes/Endfield/MiddleArea/登顶.png)
 当玩家登顶拿取奖励后，也可以将此处作为俯瞰点观察敌人和路线。远处的小屋同样透光暗示里面的宝箱。远处的醚质再次出现，吸引玩家收集，右边的路线上升后通向醚质，暗示这边可以拿到。
