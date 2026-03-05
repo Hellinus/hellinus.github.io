@@ -2,7 +2,7 @@
 title: "#023 Level Design - Process - Pre-production - Scope"
 date: 2023-09-19 00:00:00 +0800
 categories: [Game Design, Notes]
-tags: [Game Level]
+tags: [Level Design]
 ---
 
 > General size and complexity of a project; validated through prototyping.<br>

@@ -2,7 +2,7 @@
 title: "#019 Level Design - Process - Pre-production"
 date: 2023-09-14 00:00:00 +0800
 categories: [Game Design, Notes]
-tags: [Game Level]
+tags: [Level Design]
 ---
 
 > How to plan a game level with mechanics, experience goals, and pillars.<br>

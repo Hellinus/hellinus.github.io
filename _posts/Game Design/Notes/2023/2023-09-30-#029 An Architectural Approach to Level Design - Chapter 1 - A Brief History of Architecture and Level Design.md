@@ -2,7 +2,7 @@
 title: "#029 An Architectural Approach to Level Design - Chapter 1 - A Brief History of Architecture and Level Design"
 date: 2023-09-30 00:00:00 +0800
 categories: [Game Design, Notes]
-tags: [Game Level]
+tags: [Level Design]
 ---
 
 By truly understanding humanity’s built past, we can learn more exactly **how space affects interactivity.**

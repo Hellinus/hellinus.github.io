@@ -2,7 +2,7 @@
 title: "#026 Level Design - Process - Layout"
 date: 2023-09-22 00:00:00 +0800
 categories: [Game Design, Notes]
-tags: [Game Level]
+tags: [Level Design]
 ---
 
 > How to draw a top-down floor plan for a level, with flow and typology.<br>

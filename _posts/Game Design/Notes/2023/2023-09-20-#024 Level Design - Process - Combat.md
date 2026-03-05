@@ -2,7 +2,7 @@
 title: "#024 Level Design - Process - Combat"
 date: 2023-09-20 00:00:00 +0800
 categories: [Game Design, Notes]
-tags: [Game Level]
+tags: [Level Design]
 ---
 
 > Designing physical conflict between player(s) and/or NPCs.<br>

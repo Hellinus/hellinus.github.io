@@ -2,7 +2,7 @@
 title: "#030 An Architectural Approach to Level Design - Chapter 2 - Drawing for Level Designers"
 date: 2023-10-28 00:00:00 +0800
 categories: [Game Design, Notes]
-tags: [Game Level]
+tags: [Level Design]
 ---
 
 The working definition of level design: "the thoughtful execution of gameplay into gamespace for players to dwell in."

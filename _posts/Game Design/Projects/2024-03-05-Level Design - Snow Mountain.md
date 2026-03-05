@@ -2,7 +2,7 @@
 title: "Level Design - Snow Mountain"
 date: 2024-03-05 00:00:00 +0800
 categories: [Game Design, Projects]
-tags: [Game Level]
+tags: [Level Design]
 ---
 
 > still constructing

@@ -2,7 +2,7 @@
 title: "#020 Level Design - Process - Pre-production - Pacing"
 date: 2023-09-15 00:00:00 +0800
 categories: [Game Design, Notes]
-tags: [Game Level]
+tags: [Level Design]
 ---
 
 > Planning various activities and events for the player to experience during a level.<br>

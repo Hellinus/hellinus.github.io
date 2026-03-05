@@ -2,7 +2,7 @@
 title: "#025 Level Design - Process - Combat - Enemy Design"
 date: 2023-09-21 00:00:00 +0800
 categories: [Game Design, Notes]
-tags: [Game Level]
+tags: [Level Design]
 ---
 
 > Prototyping different types of NPCs with specific behaviors, strengths, and weaknesses.<br>
@@ -16,14 +16,14 @@ Enemy design is often a complex collaboration between AI designers, programmers,
 ## Enemy roster
 Imagine we're making an action game. Here are some basic roles to fill on our **enemy roster,** the collection of enemy types and the combat roles they fulfill.
 
-|Role|Behavior|
-|:---:|:---|
-|Grunt|Close range melee attack player straightforward, easy to pull|
-|Squad|Attack from mid-range / long range, ideally take turns as a group|
-|Leader|High survivability, buffs nearby allies somehow|
-|Tank|High survivability, but slower and larger (easy to hit or avoid)|
-|Swarm|Small fast attacker with low health but high close-range damage|
-|Sniper|Slow weak long range attacker, very vulnerable without others|
+|  Role  | Behavior                                                          |
+| :----: | :---------------------------------------------------------------- |
+| Grunt  | Close range melee attack player straightforward, easy to pull     |
+| Squad  | Attack from mid-range / long range, ideally take turns as a group |
+| Leader | High survivability, buffs nearby allies somehow                   |
+|  Tank  | High survivability, but slower and larger (easy to hit or avoid)  |
+| Swarm  | Small fast attacker with low health but high close-range damage   |
+| Sniper | Slow weak long range attacker, very vulnerable without others     |
 
 A finished working enemy NPC often requires designers, artists, and programmers to collaborate. It can be a lot of work, and it's far outside the scope of this level design book. 
 
@@ -35,14 +35,14 @@ Here we will focus on the combat designer / level designer's responsibility to a
 ### Balancing a roster
 It can be useful to organize the enemy roster with a spreadsheet / matrix:
 
-|Role|Speed|Health|Range|DPS|
-|:---:|:---:|:---:|:---:|:---:|
-|Grunt|*Medium*|*Weak*|*Close*|*Medium*|
-|Squad|*Medium*|*Average*|*Mid*|*Low*|
-|Leader|*Medium*|*Average*|*Mid*|*Medium*|
-|Tank|*Slow*|*Strong*|*Close*|*High*|
-|Swarm|*Fast*|*Weak*|*Close*|*Low*|
-|Sniper|*Slow*|*Weak*|*Long*|*High*|
+|  Role  |  Speed   |  Health   |  Range  |   DPS    |
+| :----: | :------: | :-------: | :-----: | :------: |
+| Grunt  | *Medium* |  *Weak*   | *Close* | *Medium* |
+| Squad  | *Medium* | *Average* |  *Mid*  |  *Low*   |
+| Leader | *Medium* | *Average* |  *Mid*  | *Medium* |
+|  Tank  |  *Slow*  | *Strong*  | *Close* |  *High*  |
+| Swarm  |  *Fast*  |  *Weak*   | *Close* |  *Low*   |
+| Sniper |  *Slow*  |  *Weak*   | *Long*  |  *High*  |
 
 This can help balance the roster or point to gaps, but don't let the spreadsheet trap you into just one way of thinking. For example, in the matrix above:
 - Only 1 Fast enemy? Maybe Leader should be Fast too, to feel more different vs Squad?

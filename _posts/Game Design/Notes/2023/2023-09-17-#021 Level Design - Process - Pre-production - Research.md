@@ -2,7 +2,7 @@
 title: "#021 Level Design - Process - Pre-production - Research"
 date: 2023-09-17 00:00:00 +0800
 categories: [Game Design, Notes]
-tags: [Game Level]
+tags: [Level Design]
 ---
 
 > How to study, analyze, and breakdown other levels / real world reference.<br>

@@ -2,7 +2,7 @@
 title: "#022 Level Design - Process - Pre-production - Worldbuilding"
 date: 2023-09-18 00:00:00 +0800
 categories: [Game Design, Notes]
-tags: [Game Level]
+tags: [Level Design]
 ---
 
 > How to conceptualize and design the fictional history of the game world.<br>

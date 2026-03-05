@@ -2,7 +2,7 @@
 title: "Level Flow: Unity Visual Scripting Extension"
 date: 2025-03-03 00:00:00 +0800
 categories: [Game Design, Projects]
-tags: [Game Project, Game Level]
+tags: [Game Project, Level Design]
 ---
 
 ## OVERVIEW
