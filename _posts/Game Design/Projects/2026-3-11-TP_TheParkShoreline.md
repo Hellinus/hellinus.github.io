@@ -1,9 +1,12 @@
 ---
-title: "关卡设计：第三人称动作冒险-河岸"
+title: "关卡设计：第三人称动作冒险 - 河岸码头"
 date: 2026-03-11 00:00:00 +0800
 categories: [Game Design, Projects]
 tags: [Level Project]
 ---
+
+## 视频
+{% include embed/bilibili.html id='BV1YVw6zXEwi' %}
 
 ## 设计文档
 ![1-1](/assets/img/LevelDesignPortfolio/TP_TheParkShoreline/1-1.png)
