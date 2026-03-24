@@ -5,6 +5,11 @@ categories: [Game Design, Notes]
 tags: [Level Design]
 ---
 
+## 视频
+{% include embed/bilibili.html id='BV1NWQQBJEft' %}
+
+## 拆解
+
 ![1](/assets/img/Notes/TLOU2/1-1/1.png)
 
 ![2](/assets/img/Notes/TLOU2/1-1/2.png)
